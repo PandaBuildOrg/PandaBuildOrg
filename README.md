@@ -1,11 +1,5 @@
 # 🐼 Panda Build
 
-**Create. Build. Scale.**  
-
-Welcome to **Panda Build** — where innovative ideas become scalable, world-class software. We specialize in cutting-edge technologies and emerging trends to deliver robust, high-performance solutions for modern businesses.  
-
----
-
 ## 🌟 About Us
 At Panda Build, we are passionate about **creating software that transforms industries**. Our team of expert developers, engineers, and designers harness the power of:
 
@@ -49,7 +43,7 @@ We thrive on leveraging the latest tools and languages:
 ## 🤝 Connect With Us
 We’re always looking for collaborations, partnerships, and opportunities to **create, build, and scale** together.  
 
-- 🌐 Website: [pandabuild.xyz](https://pandabuild.xyz) *(replace with actual domain)*  
+- 🌐 Website: [pandabuild.xyz](https://pandabuild.xyz) 
 - 🐙 GitHub: [github.com/pandabuildorg](https://github.com/pandabuildorg)  
 
 ---
